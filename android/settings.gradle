@@ -1,0 +1,3 @@
+rootProject.name = 'alg_3180'
+
+include ':app'
